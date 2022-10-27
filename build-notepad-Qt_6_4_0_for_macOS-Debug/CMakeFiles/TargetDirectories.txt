@@ -1,0 +1,9 @@
+/Users/jeettan/build-notepad-Qt_6_4_0_for_macOS-Debug/CMakeFiles/notepad.dir
+/Users/jeettan/build-notepad-Qt_6_4_0_for_macOS-Debug/CMakeFiles/edit_cache.dir
+/Users/jeettan/build-notepad-Qt_6_4_0_for_macOS-Debug/CMakeFiles/rebuild_cache.dir
+/Users/jeettan/build-notepad-Qt_6_4_0_for_macOS-Debug/CMakeFiles/list_install_components.dir
+/Users/jeettan/build-notepad-Qt_6_4_0_for_macOS-Debug/CMakeFiles/install.dir
+/Users/jeettan/build-notepad-Qt_6_4_0_for_macOS-Debug/CMakeFiles/install/local.dir
+/Users/jeettan/build-notepad-Qt_6_4_0_for_macOS-Debug/CMakeFiles/install/strip.dir
+/Users/jeettan/build-notepad-Qt_6_4_0_for_macOS-Debug/CMakeFiles/notepad_autogen_timestamp_deps.dir
+/Users/jeettan/build-notepad-Qt_6_4_0_for_macOS-Debug/CMakeFiles/notepad_autogen.dir
